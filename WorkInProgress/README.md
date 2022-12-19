@@ -36,7 +36,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Recriando o Wikipedia com Layout Moderno](https://web.dio.me/lab/recriando-o-wikipedia-com-layout-moderno/learning/fb2493c1-bc7a-4cbf-91f8-2927f2a68adb)[Instruções para entrega](https://web.dio.me/lab/recriando-o-wikipedia-com-layout-moderno/learning/67b54e1f-0314-4125-9c65-674d3784fc43)
+- [Recriando o Wikipedia com Layout Moderno](https://web.dio.me/lab/recriando-o-wikipedia-com-layout-moderno/learning/fb2493c1-bc7a-4cbf-91f8-2927f2a68adb)
+- [Instruções para entrega](https://web.dio.me/lab/recriando-o-wikipedia-com-layout-moderno/learning/67b54e1f-0314-4125-9c65-674d3784fc43)
 
 
 
